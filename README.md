@@ -1,8 +1,9 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=3000&pause=1000&color=6A5ACD%2C20B2AA%2CFF69B4&center=true&vCenter=true&width=600&lines=Hi+I'm+Pujitha+Jetti;AI+%26+ML+Engineer+in+Progress...;Welcome+to+my+GitHub+Profile!" 
+    src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=28&duration=3000&pause=1000&color=00BFA6%2C00CFFF%2C8E44AD&center=true&vCenter=true&width=600&lines=Hi+I'm+Pujitha+Jetti;AI+%26+ML+Engineer;Welcome+to+my+GitHub+Profile!" 
     alt="Typing SVG" />
 </h1>
+
 
 
 ---
