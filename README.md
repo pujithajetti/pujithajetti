@@ -1,6 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+I'm+Pujitha+Jetti;AI+%26+ML+Engineer+in+progress...;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=3000&pause=1000&color=6A5ACD%2C20B2AA%2CFF69B4&center=true&vCenter=true&width=600&lines=Hi+I'm+Pujitha+Jetti;AI+%26+ML+Engineer+in+Progress...;Welcome+to+my+GitHub+Profile!" 
+    alt="Typing SVG" />
 </h1>
+
 
 ---
 
@@ -24,19 +27,6 @@
 **AI & Data Analytics Intern – AICTE Edunet Foundation** (Dec 2024 – Jan 2025)  
 • Developed a multi-disease prediction system using supervised ML techniques  
 • Focused on data reliability and practical applicability
-
----
-
-### 🚀 Featured Projects
-
-🔹 [💡 Public ML Web App](https://github.com/pujithajetti/public_ml_web_app)  
-> Flask-based machine learning app with data input, model prediction, and UI display
-
-🔹 [❤️ Heart Disease Prediction](https://github.com/pujithajetti/Heart_disease_prediction)  
-> Logistic Regression model with feature selection, risk prediction, and evaluation
-
-🔹 [🌐 Personal Portfolio](https://github.com/pujithajetti/Personal_portfolio)  
-> Fully responsive personal website built with HTML, CSS, and JavaScript
 
 ---
 
